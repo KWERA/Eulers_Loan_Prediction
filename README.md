@@ -1,5 +1,5 @@
 Loan Fraud detection - a ZINDI CHALLENGE 
-
+ 
 Executive Summary 
 Loan Fraud is a significant concern for financial institutions, leading to substantial financial losses and reputation
 damage. As fraudsters become more sophisticated, there is a pressing need for a reliable and efficient
@@ -8,6 +8,7 @@ Masaba K., Stella Kwera M., David T. Mutebi and Maria Charity Atuhaire, for thei
 Refactory - CERTIfiCATE IN ARTIfiCIAL INTELLIGENCE AND MACHINE LEARNING SKILLS, undertook a project to address this challenge. 
 The project aimed at developing a predictive model to accurately determine the likelihood of loan repayment, 
 enhance the efficiency of loan processing by automating fraud detection, reduce financial losses, and strengthen trust between lenders and borrowers
+Link to the competition: https://zindi.africa/competitions/data-science-nigeria-challenge-1-loan-default-prediction
 
 Business problem 
 Superlender, a local digital lending company, leverages credit models to deliver profitable, high-impact loan alternatives.
