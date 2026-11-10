@@ -5,7 +5,7 @@ Loan Fraud is a significant concern for financial institutions, leading to subst
 damage. As fraudsters become more sophisticated, there is a pressing need for a reliable and efficient
 system to detect and prevent fraudulent activities in loan applications. The Euler Group, comprising Luke
 Masaba K., Stella Kwera M., David T. Mutebi and Maria Charity Atuhaire, for their capstone project under
-Refactory - CERTIfiCATE IN ARTIfiCIAL INTELLIGENCE AND MACHINE LEARNING SKILLS, undertook a project to address this challenge. 
+Refactory - CERTIfiCATE IN ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING SKILLS, undertook a project to address this challenge. 
 The project aimed at developing a predictive model to accurately determine the likelihood of loan repayment, 
 enhance the efficiency of loan processing by automating fraud detection, reduce financial losses, and strengthen trust between lenders and borrowers
 Link to the competition: https://zindi.africa/competitions/data-science-nigeria-challenge-1-loan-default-prediction
